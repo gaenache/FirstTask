@@ -1,0 +1,4 @@
+Hello world! This is my second git task! - Conflict was resolved. PEACE!!!
+
+
+
